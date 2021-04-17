@@ -1,0 +1,9 @@
+Burak Sak / Izmir Yuksek Teknoloji Enstitusu 4.Sinif Ogrencisi / 23
+
+
+Yaklasik 3 yildir mobil alaninda kendimi gelistiriyorum. 
+Genellikle React Native alaninda gelistirdim kendimi ayrica Swift alaninda da native bridgeler yazarak native alaninda ilerledim. 
+Ek olarak Swift icin aldigim bi kurs uzerinden calismalarim olmustu.
+Kariyerime Swift ile devam etmek istedigim icin bootcampe katildim.
+
+
